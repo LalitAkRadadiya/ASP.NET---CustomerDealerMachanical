@@ -1,0 +1,5 @@
+C:\Users\Lalit Ak Radadiya\source\repos\CustomerDealerMachanical\CDM.Model\bin\Debug\CDM.Model.dll
+C:\Users\Lalit Ak Radadiya\source\repos\CustomerDealerMachanical\CDM.Model\bin\Debug\CDM.Model.pdb
+C:\Users\Lalit Ak Radadiya\source\repos\CustomerDealerMachanical\CDM.Model\obj\Debug\CDM.Model.csproj.CoreCompileInputs.cache
+C:\Users\Lalit Ak Radadiya\source\repos\CustomerDealerMachanical\CDM.Model\obj\Debug\CDM.Model.dll
+C:\Users\Lalit Ak Radadiya\source\repos\CustomerDealerMachanical\CDM.Model\obj\Debug\CDM.Model.pdb

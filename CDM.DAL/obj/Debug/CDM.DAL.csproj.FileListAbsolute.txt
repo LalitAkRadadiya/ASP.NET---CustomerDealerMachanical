@@ -1,0 +1,16 @@
+C:\Users\Lalit Ak Radadiya\source\repos\CustomerDealerMachanical\CDM.DAL\bin\Debug\CDM.DAL.dll.config
+C:\Users\Lalit Ak Radadiya\source\repos\CustomerDealerMachanical\CDM.DAL\bin\Debug\CDM.DAL.dll
+C:\Users\Lalit Ak Radadiya\source\repos\CustomerDealerMachanical\CDM.DAL\bin\Debug\CDM.DAL.pdb
+C:\Users\Lalit Ak Radadiya\source\repos\CustomerDealerMachanical\CDM.DAL\bin\Debug\AutoMapper.dll
+C:\Users\Lalit Ak Radadiya\source\repos\CustomerDealerMachanical\CDM.DAL\bin\Debug\CDM.Model.dll
+C:\Users\Lalit Ak Radadiya\source\repos\CustomerDealerMachanical\CDM.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Lalit Ak Radadiya\source\repos\CustomerDealerMachanical\CDM.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lalit Ak Radadiya\source\repos\CustomerDealerMachanical\CDM.DAL\bin\Debug\CDM.Model.pdb
+C:\Users\Lalit Ak Radadiya\source\repos\CustomerDealerMachanical\CDM.DAL\bin\Debug\AutoMapper.xml
+C:\Users\Lalit Ak Radadiya\source\repos\CustomerDealerMachanical\CDM.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Lalit Ak Radadiya\source\repos\CustomerDealerMachanical\CDM.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lalit Ak Radadiya\source\repos\CustomerDealerMachanical\CDM.DAL\obj\Debug\CDM.DAL.csprojAssemblyReference.cache
+C:\Users\Lalit Ak Radadiya\source\repos\CustomerDealerMachanical\CDM.DAL\obj\Debug\CDM.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Lalit Ak Radadiya\source\repos\CustomerDealerMachanical\CDM.DAL\obj\Debug\CDM.DAL.csproj.CopyComplete
+C:\Users\Lalit Ak Radadiya\source\repos\CustomerDealerMachanical\CDM.DAL\obj\Debug\CDM.DAL.dll
+C:\Users\Lalit Ak Radadiya\source\repos\CustomerDealerMachanical\CDM.DAL\obj\Debug\CDM.DAL.pdb
